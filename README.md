@@ -28,7 +28,7 @@ Você vai precisar ter o Jupyter Notebook instalado para executar o código ou u
 
 ## Utilização 👨‍💻
 
-- 1 - Faça o download do arquivo CSV da base de dados do Kaggle sobre unicórnios.
+- 1 - Faça o download do arquivo CSV da base de dados.
 - 2 - Coloque o arquivo CSV na mesma pasta do notebook Python.
 - 3 - Abra o notebook Python no Jupyter Notebook OU no Google Colabs.
 - 4 - Execute as células do notebook para carregar os dados e  realizar a análise e visualizações.
